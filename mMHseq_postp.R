@@ -3,7 +3,7 @@ rm(list=ls())
 
 # set directories
 work_directory = "/Users/iris/Desktop/mMHseq_post_processing/" # local
-# work_directory = "/home/yt356/scharfe/common/mMHseq_post_processing/" # server
+# work_directory = "" # server
 # setwd(work_directory)
 
 ken_resource_dir = paste0(work_directory, "Ken_90MH_dbSNP_717_annotated.txt") # MH ID retouched based on match file
